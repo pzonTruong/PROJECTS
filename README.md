@@ -25,6 +25,10 @@
 
     I do use ChatGPT to get code and help me solving problems
     Don't expect anything high quality here
+
+## Latest Release
+    Create music website basic structure.
+    
 ## Social Media
 
     It would be nice to leave a star here.
