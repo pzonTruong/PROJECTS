@@ -10,6 +10,7 @@
 ### THE PROJECT LIST
 
     The list of things i want to create.
+    I only try to make 2-3 things out of the list below.
 
 * Booking website
 * Music Website
@@ -20,9 +21,17 @@
 * E-Learning
 * Social Network
 
+## Notice this!!
+
+    I do use ChatGPT to get code and help me solving problems
+    Don't expect anything high quality here
 ## Social Media
 
+    It would be nice to leave a star here.
+    
 * Github: https://github.com/pzonTruong
 * Discord: pzon
+
+
 
 
